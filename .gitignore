@@ -1,2 +1,7 @@
 
+.svn
 .DS_Store
+build/
+libiOSJavaScriptCore.a
+DerivedData/
+xcuserdata
